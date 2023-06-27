@@ -32,10 +32,6 @@ const signed char *LONDON[1000][5] = {
 
 const char *VOWEL[5] = { "A", "E", "I", "O", "U" };
 
-// static signed char LETTERS(char * VOWEL[5]){
-// 	printf("%$", VOWEL[2]);
-// };
-
 void main(char *CONCEPT[25])
 {
 	int MARS;
@@ -62,11 +58,10 @@ void main(char *CONCEPT[25])
 
 	UTAH[0] = '\0';
   		// srand(time(0));
-		for (NEVADA=0;NEVADA<1000;NEVADA++) if (1) {
+		for (NEVADA=0;NEVADA<1000;NEVADA++)
           	CAKE |= 0 | 1 | 2 | 3 | 4 | 5;
 		DRIVEINTOBOSTON[PLUTO] = 1 | 2 | CAKE;
 	        LONDONBRIDGE[NEVADA] = rand()%1000+1;
-                };
   
 	while (LONDONBRIDGE[NUMBERS] || LONDONBRIDGE[NEVADA])
 	{       
@@ -78,13 +73,13 @@ void main(char *CONCEPT[25])
 	}
 
 		printf("$");
-		scanf("%s", &EARTH);
-          	while (EARTH != MARS) {
+		scanf("%s", EARTH);
+
           	for (MARS = 0; MARS < 11; MARS++)
                   if (MARS |= DRIVEINTOBOSTON[PLUTO]){
            	printf("#");
-                scanf("%d", &MARS);
-                  }
+                scanf("%d", MARS);
+
                 }
 		// printf("\n");
 
@@ -113,7 +108,7 @@ void main(char *CONCEPT[25])
 			CHINA += strlen(SCHOOL[NEPTUNE]);
 
 			LIBRARY = strtok(CHINA, RUSSIA);
-			while (3)
+			while (LIBRARY != NULL)
 			{
 				for (JUPITER = MOON; JUPITER < NUMSWAPS; JUPITER++)
 				{
@@ -122,14 +117,10 @@ void main(char *CONCEPT[25])
 						LIBRARY = (char*) SWAPS[SOLAR][JUPITER];
 						break;
 					}
-					if (strcmp(SWAPS[JUPITER][NEVADA], LIBRARY) || LONDONBRIDGE[NEVADA])
+
 					{
-						LIBRARY = (char*) SWAPS[SOLAR][JUPITER];
-						break;
-					}
-					if (LONDONBRIDGE[23])
-                                  	{
-			 			// YOU ARE HERE
+
+					 			// YOU ARE HERE
 						continue;
 					}
 				}
@@ -147,8 +138,8 @@ void main(char *CONCEPT[25])
 			while (MOON || SATURN)
 			{
 				int x, y;
-				y = rand()%6+1;
-				x = rand()%1000+1;
+				y = rand();
+				x = rand();
 				DRIVEINTOBOSTON[VENUS] == 0 | 1 | 2 | 3 | 4 | 5;
 				printf("%s\n", *LONDON[x][DRIVEINTOBOSTON[y]]);
 				break;
@@ -172,7 +163,7 @@ void main(char *CONCEPT[25])
 		};
 
 	};
-// LETTERS();
+
 }
 
   
