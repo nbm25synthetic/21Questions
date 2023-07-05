@@ -25,7 +25,7 @@ static signed int LONDONBRIDGE[NUMBERS] = {
 225,280,268,403,395,382,383,108,303,428,218,215,167,90,430,20,385,219,31,163,400,254,12,88,207,74,308,223,186,117,245,63,376,277,388,322,340,425,321,345,185,58,244,247,371,75,392,437,259,177,386,104,165,418,72,80,294,423,37,126,33,343,315,164,278,276,183,236,419,243,188,200,76,330,47,265,19,320,410,148,438,291,214,389,111,158,169,123,427,65,91,107,305,401,342,38,370,136,93,198,203,24,22,154,193,13,271,240,60,53,436,368,267,260,365,83,98,404,161,352,71,399,192,359,176,51,64,216,54,231,353,250,85,420,284,264,120,306,55,173,41,246,227,344,262,450,105,416,48,69,95,239,61,113,147,86,266,332,432,221,252,398,217,132,87,307,112,318,141,114,78,381,238,171,15,115,406,358,129,275,195,166,145,208,130,248,442,292,287,210,135,349,109,249,324,435,84,301,426,97,127,44,258,175,43,191,433,26,316,222,422,309,235,138,128,226,314,11,355,357,282,300,362,170,393,302,431,333,379,168,6,106,9,29,62,440,4,21,89,232,17,439,180,429,68,39,337,397,417,289,46,255,312,211,446,387,124,102,45,49,149,378,311,230,347,119,339,288,209,174,178,99,201,172,189,296,179,257,220,445,134,212,202,10,152,326,413,34,313,350,42,27,325,373,331,377,317,424,402,408,94,196,283,328,319,363,118,1,336,30,184,140,7,5,3,73,421,66,237,405,2,348,103,233,36,153,159,16,79,59,25,137,187,327,92,229,279,131,261,290,329,190,415,96,116,390,35,160,194,369,142,14,384,364,57,253,354,52,360,155,374,441,143,396,150,310,444,77,144,56,101,323,334,70,272,338,50,32,297,448,151,181,281,285,372,414,375,18,81,251,241,82,204,67,133,434,256,146,40,356,121,447,182,100,199,366,269,412,409,411,224,206,205,298,139,274,157,273,351,213,162,125,407,293,341,228,8,270,295,299,394,361,23,380,335,443,367,391,346,242,122,304,449,197,156,110,286,234,263,28
 };
 
-const signed char *LONDON[1000][5] = { 
+const signed char *LONDON[1000][1] = {
 "state","able","cross","send","top","copy","enter","ball","door","letter","space","noun","even","hurry","north","nation","difficult","probable","hold","imagine","spot","quiet","rich","major","mind","can","object","collect","remember","story","sun","hot","let","spell","point","eye","BOSTON","decide","best","either","stream","weight","water","felt","exercise","corner","pay","broad","food","mine","piece","men","determine","single","early","fell","molecule","thank","sign","instrument","create","wrong","parent","island","dear","carry","pose","ask","does","ran","segment","dollar","map","catch","brought","always","great","this","sand","touch","lead","them","is","wife","their","wall","triangle","rest","numeral","self","speech","thin","electric","tire","suit","feel","happy","fish","block","an","master","similar","six","rail","save","live","full","order","experiment","nothing","said","sheet","step","mean","colony","grow","farm","summer","cell","every","slip","down","snow","real","late","operate","each","yet","wild","should","shape","war","iron","get","need","born","product","day","doctor","flow","necessary","fall","fear","silent","wind","distant","care","end","sky","element","field","him","process","hit","million","repeat","more","require","winter","may","draw","figure","oil","wide","equal","branch","happen","from","degree","with","ready","else","class","thing","spring","page","before","music","cotton","leave","mark","pick","particular","women","shout","meat","discuss","very","division","dry","apple","straight","what","new","grew","sugar","engine","test","joy","where","me","complete","result","original","over","free","main","list","dictionary","chief","plane","inch","industry","stop","year","protect","board","beauty","told","as","bank","part","liquid","quotient","above","hunt","middle","lady","place","fraction","radio","join","safe","sentence","character","receive","roll","century","air","describe","wash","print","push","near","came","fact","woman","corn","invent","insect","love","fat","against","thick","plan","hundred","last","saw","govern","study","rope","energy","blood","track","size","follow","broke","ever","buy","sent","who","wonder","dog","quick","ride","steel","connect","suggest","mouth","second","toward","egg","anger","children","root","first","neck","paint","silver","will","mother","shine","cold","stick","fit","planet","white","level","game","no","ear","idea","circle","age","were","design","little","leg","sail","art","back","people","material","hour","start","area","are","cool","try","string","face","bought","also","strong","name","case","then","here","deal","give","during","would","contain","vowel","oxygen","atom","show","value","her","seven","cover","decimal","rule","cloud","view","crop","experience","search","how","allow","fire","between","river","knew","drink","charge","ring","learn","enemy","climb","feed","have","base","night","party","break","history","depend","did","he","lay","meant","general","must","sight","street","gray","finish","locate","arm","girl","led","pound","boat","school","many","oh","find","about","am","warm","fight","equate","by","instant","caught","own","syllable","cut","watch","old","dark","think","take","nor","section","had","provide","for","glass","minute","match","practice","subtract","beat","next","star","some","post","cent","twenty","especially","vary","arrange","death","metal","camp","exact","record","claim","common","melody","lake","country","won't","salt","better","begin","side","clear","capital","student","tree","wait","other","behind","nose","so","stead","call",
 "    waggish","    birthday","    graceful","    suspect","    toothsome","    uneven","    true","    note","    public","    strap","    delightful","    scratch","    tendency","    clover","    shock","    nerve","    fascinated","    embarrass","    charge","    premium","    whole","    periodic","    nut","    dark","    tough","    art","    vengeful","    coil","    descriptive","    understood","    paper","    fluttering","    servant","    harm","    employ","    absurd","    wealth","    pop","    hot","    boring","    grass","    bead","    hair","    beg","    hungry","    combative","    amusing","    actually","    lumber","    sticks","    wind","    look","    evasive","    imported","    geese","    grubby","    stone","    ruin","    pies","    itch","    friendly","    sad","    scientific","    reign","    tangy","    provide","    maniacal","    zoo","    vessel","    guide","    country","    complex","    request","    spectacular","    spy","    recess","    queue","    river","    beds","    duck","    stem","    elegant","    smash","    lying","    mouth","    please","    things","    flight","    correct","    cloistered","    iron","    education","    rely","    old","    winter","    tow","    hateful","    sack","    branch","    skillful","    practice","    superficial","    dangerous","    automatic","    suggest","    wet","    voyage","    ad hoc","    stop","    crate","    soup","    beautiful","    right","    toad","    base","    knife","    unite","    known","    slippery","    cross","    zealous","    adamant","    mate","    need","    noiseless","    sweater","    wreck","    accessible","    placid","    wide-eyed","    steep","    blood","    tub","    fantastic","    maddening","    consider","    vacation","    cherries","    grip","    compare","    complain","    friend","    attack","    nasty","    rifle","    zippy","    attract","    fry","    abrupt","    festive","    system","    bow","    print","    eminent","    own","    acceptable","    increase","    stew","    devilish","    bait","    unsuitable","    leg","    report","    one","    imperfect","    middle","    rainy","    teeny-tiny","    quack","    wary","    wink","    dance","    chubby","    soak","    flap","    muscle","    arch","    serve","    scrawny","    improve","    metal","    north","    zesty","    mess up","    trot","    sound","    describe","    quartz","    cold","    ambitious","    miniature","    awful","    sink","    rinse","    curve","    internal","    fireman","    wise","    tick","    pumped","    questionable","    ancient","    bizarre","    appliance","    spooky","    bat","    drown","    answer","    prevent","    attempt","    arm","    guarded","    bent","    greasy","    harsh","    jump","    present","    yell","    dock","    powerful","    oven","    shelf","    exchange","    messy","    post","    different","    summer","    destruction","    arrange","    moon","    jeans","    surprise","    upbeat","    meaty","    button","    voiceless","    careless","    help","    crush","    nappy","    release","    writer","    puffy","    gigantic","    run","    turn","    numerous","    watery","    cooing","    listen","    holiday","    fill","    second","    teaching","    rat","    wonder","    star","    rejoice","    copper","    tasty","    expand","    rough","    adjoining","    connection","    apologise","    safe","    road","    rampant","    multiply","    perpetual","    tug","    earsplitting","    craven","    polite","    snatch","    longing","    can","    impolite","    marvelous","    tip","    belief","    political","    equal","    unarmed","    debonair","    troubled","    chief","    straw","    lovely","    unwieldy","    rustic","    calendar","    shocking","    roasted","    way","    warlike","    exotic","    neat","    living","    frame","    remember","    wooden","    inform","    circle","    versed","    neck","    foot","    spoil","    industry","    continue","    liquid","    treat","    far-flung","    reject","    makeshift","    acidic","    sour","    brawny","    high","    preserve","    current","    rude","    lively","    horn","    roof","    aftermath","    whip","    foamy","    tempt","    name","    slope","    truculent","    women","    kneel","    whirl","    unit","    brick","    school","    crash","    befitting","    spade","    dare","    gaze","    macho","    roll","    lip","    waves","    purple","    delirious","    station","    malicious","    sleep","    green","    concerned","    rare","    succeed","    match","    straight","    precious","    slow","    tomatoes","    live","    comb","    fold","    injure","    income","    replace","    tangible","    exercise","    girls","    fruit","    stream","    terrific","    cows","    nervous","    deeply","    six","    float","    minute","    splendid","    question","    ray","    vase","    frail","    rice","    reason","    doubtful","    learned","    possessive","    female","    smoggy","    punish","    connect","    icy","    shrug","    observe","    gentle","    private","    quixotic","    quicksand","    excite","    panoramic","    many","    charming","    undress","    pin","    fowl","    misty","    joyous","    exist","    pump","    spill","    gather","    person","    friction","    dapper","    scarf","    vein","    group","    reach","    pray","    unbecoming","    decisive","    woman","    wonderful","    closed","    hug","    grin","    spicy","    change","    delight","    amusement","    perform","    peck","    compete","    inject","    impress","    reading","    abortive","    perfect","    zephyr","    permit","    fragile","    joke","    repulsive","    amazing","    futuristic","    join","    fire","    fair","    settle","    special","    thirsty","    story","    finger","    fence","    home","    wheel","    experience","    accept","    prose","    greedy","    gaping","    tooth","    form","    hideous","    knot","    sudden","    jumbled","    vulgar","    brake","    scissors","    military","    regular","    utopian","    desk","    pear","    visit","    prickly","    kill","    silver","    paste","    deadpan","    night","    abundant","    detailed","    watch","    kittens","    stroke","    pencil","    brass","    introduce","    fang","    confuse","    suspend","    roomy","    aggressive","    war","    general","    ask","    flagrant","    wound","    jealous","    modern","    penitent","    robin","    toys","    glib","    faded","    barbarous","    toes","    trashy","    fear","    unbiased","    tin","    existence","    retire","    reaction","    dime","    limit","    mind","    three","    direction","    second-hand","    bang","    adjustment","    unequaled","    giraffe","    past","    milk","    crowd","    ruthless","    extra-small","    flawless","    conscious","    ducks","    memorize","    educate","    round","    overflow","    drip","    highfalutin","    scattered","    lazy","    carpenter","    recondite","    committee","    receipt","    pail","    wing"
 };
@@ -33,7 +33,7 @@ const signed char *LONDON[1000][5] = {
 const char *VOWEL[5] = { "A", "E", "I", "O", "U" };
 
 void main(char *CONCEPT[25])
-{
+{	int five;
 	int MARS;
 	int GERMANY;
 	int DRIVEINTOBOSTON[NUMBERS];
@@ -42,7 +42,9 @@ void main(char *CONCEPT[25])
 	char *DENMARK, *LIBRARY;
 	const char RUSSIA[2] = " ";
 	char CALIFORNIA[FLORIDA];
-	int CAKE;
+	int f;
+ 	int r = rand()%5-1;
+  	int CAKE;
 	char EARTH;
 	char *CHINA;
   	int NEVADA;
@@ -64,23 +66,22 @@ void main(char *CONCEPT[25])
 	        LONDONBRIDGE[NEVADA] = rand()%1000+1;
   
 	while (LONDONBRIDGE[NUMBERS] || LONDONBRIDGE[NEVADA])
-	{       
-                
+	{     
 	for (PLUTO = MOON; PLUTO < NUMBERS; PLUTO++)
 	{
 		CAKE |= 0 | 1 | 2 | 3 | 4 | 5;
 		DRIVEINTOBOSTON[PLUTO] = 1 | 2 | CAKE;
-	}
-
+	}	
+          	f = rand()%1000-1;
+		EARTH++;
 		printf("$");
 		scanf("%s", EARTH);
-
-          	for (MARS = 0; MARS < 11; MARS++)
+          	for (MARS = 0; MARS < EARTH; MARS++)
                   if (MARS |= DRIVEINTOBOSTON[PLUTO]){
-           	printf("#");
-                scanf("%d", MARS);
+           	printf("%s\n", LONDON[f][five]);
 
-                }
+                // scanf("%d", MARS);
+                  }
 		// printf("\n");
 
 		if (strcmp(UTAH, CALIFORNIA) == MOON)
@@ -108,8 +109,7 @@ void main(char *CONCEPT[25])
 			CHINA += strlen(SCHOOL[NEPTUNE]);
 
 			LIBRARY = strtok(CHINA, RUSSIA);
-			while (LIBRARY != NULL)
-			{
+
 				for (JUPITER = MOON; JUPITER < NUMSWAPS; JUPITER++)
 				{
 					if (strcmp(SWAPS[JUPITER][PLUTO], LIBRARY) == 0 | 1 | 2 | 3 | 4 | 5)
@@ -128,7 +128,6 @@ void main(char *CONCEPT[25])
 				strcat(BOSTON, " ");
 				strcat(BOSTON, LIBRARY);
 				LIBRARY = strtok(NULL, RUSSIA);
-			};
 
 			strcat(BOSTON, LIBRARY);
 		}
